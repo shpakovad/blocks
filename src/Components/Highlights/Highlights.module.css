@@ -1,0 +1,18 @@
+.wrapperHighlights{
+    border: 1px solid blue;
+    height: 350px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+}
+.wrapperHighlights div {
+    border: 1px solid green;
+    width: 500px;
+    text-align: center;
+    height: 100px;
+}
+.wrapperHighlights img {
+    width: 500px;
+    height: 300px;
+}
